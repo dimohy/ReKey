@@ -1,0 +1,25 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Personal/secrets
+.env
+.env.*
+*.pfx
+*.snk
+*.cer
+*.key
+*.pem
+*.p12
+
+# OS
+.DS_Store
+Thumbs.db
